@@ -18,6 +18,8 @@ Identify a data set and based on the data set and phenomenon ask 2 questions tha
 ## Question 1
 How have car crashes changed year over year in the different Bouroughs?
 
+<img width="1680" height="1059" alt="image" src="https://github.com/user-attachments/assets/84fa4361-5e98-4fb9-a6e3-814f190df469" />
+
 <img width="819" height="1064" alt="image" src="https://github.com/user-attachments/assets/1a88fa3b-d090-42c3-a4ba-aee01194cf21" />
 
 <img width="1683" height="1064" alt="Screenshot 2025-11-11 201743" src="https://github.com/user-attachments/assets/8cdd80a1-b101-452d-9e46-13d1567bb7b4" />
