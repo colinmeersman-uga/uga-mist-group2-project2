@@ -4,13 +4,13 @@
 
 Colin Meersman - cmm08294@uga.edu 
 
-Divya Kadiyala - 
+Divya Kadiyala - dk94810@uga.edu
 
-Aaron Silverman - 
+Aaron Silverman - abs87438@uga.edu
 
-Laiba Syed -  
+Laiba Syed - ls76725@uga.edu
 
-Sanjot Bodake -  
+Sanjot Bodake - ssb46835@uga.edu
 
 ## Objective
 Identify a data set and based on the data set and phenomenon ask 2 questions that would highlight something interesting about the data or phenomenon. 
