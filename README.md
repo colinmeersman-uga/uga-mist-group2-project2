@@ -107,3 +107,7 @@ https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
 The File Size was too large to save here as a .twbx. Even when compressed to a .zip file, it was still too large. Attached is the visualiztion public link. To see all visualizations, please click download or edit to see all visualizations
 
 https://public.tableau.com/views/Project2Group2MIST4600/CrashesByFactor?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+# Group Presentation
+
+https://outlookuga-my.sharepoint.com/:p:/g/personal/ssb46835_uga_edu/Eal63I-TVENAsSM30ZjlpRABJVq9Z3mR62DGZkRKDnUREA?e=NWXdtj
